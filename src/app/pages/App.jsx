@@ -18,6 +18,7 @@ import EntityCard from '../components/EntityCard'
 function App() {
   const [searchTerm, setSearchTerm] = useState('')
   const [isLoading, setIsLoading] = useState(true)
+  const [showCopiedMessage, setShowCopiedMessage] = useState(false)
 
   const handleSearchChange = (event) => {
     setSearchTerm(event.target.value)
@@ -34,7 +35,6 @@ function App() {
       if (loadedImages === images.length) {
         setTimeout(() => {
           setIsLoading(false)
-          console.log('All images loaded')
           document.body.classList.remove('loading')
           document.body.classList.add('loaded')
         }, 500)
@@ -53,6 +53,16 @@ function App() {
       images.forEach(img => img.removeEventListener('load', imageLoaded))
     }
   }, [filteredEntities])
+
+  const handleCopyDiscordDM = () => {
+    const textToCopy = "ds_arangod"
+    navigator.clipboard.writeText(textToCopy).then(() => {
+      setShowCopiedMessage(true)
+      setTimeout(() => {
+        setShowCopiedMessage(false)
+      }, 1500)
+    })
+  }
 
   return (
     <>
@@ -96,13 +106,18 @@ function App() {
         <section className="footer">
           <div>
             <span className="desc">Complete and updated guide for Lethal Company (V69)</span>
-            <span className="mes">If you want to contribute with data or report an error, write to my <a href='#' className="feature">PERSONAL DISCORD DM</a></span>
+            <span className="mes">If you want to contribute with data or report an error, write to my <a className="feature" onClick={handleCopyDiscordDM}>PERSONAL DISCORD DM</a></span>
           </div>
           <div>
             <span className="author">Developed by JSArango</span>
             <img src={ImageFooterJSALogo} alt="JSA" />
           </div>
         </section>
+        {showCopiedMessage && (
+          <div className="copied-message">
+            <span>Copied to clipboard: <strong>ds_arangod</strong></span>
+          </div>
+        )}
       </main>
     </>
   )
