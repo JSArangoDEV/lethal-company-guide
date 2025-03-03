@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: "Victor Mono", system-ui;
+}
+
+/* - - - - - - - */
+
+:root {
+  --c-0-dark: #111111;
+  --c-0-light: #ffffff;
+  --c-0-background: #450a0a;
+  --c-0-nb-ec: #7f1d1d;
+
+  --c-0-t-sp-et: #ce7e7e;
+
+  /* - - - */
+
+  --p-0-br-0: 8px;
+  --p-0-bs-0: 2px;
+
+  /* 
+    > C: Color
+    > P: Property
+    > T: Text
+    > SP: Search Placeholder
+    > ET: Entity Title
+    > Nb: Navigation Bar
+    > EC: Entity Container
+    > BR: Border Radius
+    > BS: Border Size
+  */
+}
+
+/* - - - - - - - */
+
+.c-entitycard-m {
+  display: flex;
+  flex-direction: column;
+
+  width: 288px;
+
+  break-inside: avoid;
+  page-break-inside: avoid;
+
+  margin-bottom: 24px;
+}
+
+.c-entitycard-m .entity-name {
+  background: var(--c-0-nb-ec);
+  width: 100%;
+  color: var(--c-0-light);
+  
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+
+  padding: 8px;
+}
+
+.c-entitycard-m .entity-image {
+  width: 100%;
+  border-left: var(--p-0-bs-0) solid var(--c-0-nb-ec);
+  border-right: var(--p-0-bs-0) solid var(--c-0-nb-ec);
+}
+
+.c-entitycard-m .entity-image img {
+  width: 100%;
+  padding: 16px;
+}
+
+.c-entitycard-m .entity-data {
+  background: var(--c-0-nb-ec);
+  width: 100%;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.c-entitycard-m .entity-data .content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 10px;
+  gap: 12px;
+}
+
+.c-entitycard-m .entity-data .content .content-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--c-0-background);
+}
+
+.c-entitycard-m .entity-data .content .data {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
+
+.c-entitycard-m .entity-data .content .data .text-align.normal {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+}
+
+.c-entitycard-m .entity-data .content .data .text-align.wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+}
+
+.c-entitycard-m .entity-data .content .data .text-align.wrap .value {
+  width: 144px;
+}
+
+.c-entitycard-m .entity-data .content .data .text-align .title {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--c-0-t-sp-et);
+}
+
+.c-entitycard-m .entity-data .content .data .text-align .value-container .value {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--c-0-light);
+  white-space: pre-line;
+  text-align: end;
+}
+
+.c-entitycard-m .entity-data .content .data .text-align .value {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--c-0-light);
+  white-space: pre-line;
+  text-align: end;
+}

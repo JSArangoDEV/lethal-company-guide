@@ -1,0 +1,1909 @@
+[
+  {
+    "name": "Maneater",
+    "imageID": "maneater",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "Danger level",
+            "value": "1000%",
+            "textWrap": "normal"
+          },
+          {
+            "title": "RADAR pip size",
+            "value": "• Small (Quiet Phase, Impatient Phase and Crying Phase)\n• Big (Adult Phase)",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Power level",
+            "value": "2",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "0.8s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "No",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Leave time",
+            "value": "Doesn't leave",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "• Cannot be killed in its baby phase.\n• 5 HP",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Behavior",
+            "value": "• In baby form it will follow the player it likes the most.\n• In adult form it will attack players using a pattern similar to Eyeless Dogs",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Indoor (But can be brought to Outdoor)",
+            "textWrap": "wrap"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "1.88s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0.44s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Zap-Gun difficulty",
+            "value": "0.8",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "Instant kill",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack speed",
+            "value": "0.5s ~ 1s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Internal",
+        "data": [
+          {
+            "title": "Internal name",
+            "value": "CaveDweller",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ghost Girl",
+    "imageID": "ghostgirl",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Invisible",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "2",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "0.67s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Haunting / Chasing",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside and outside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "Immune",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "0s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "NaN",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack damage",
+            "value": "Instant kill",
+            "textWrap": "normal"
+          },
+          {
+            "title": "DPS",
+            "value": "NaN",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Masked",
+    "imageID": "masked",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Medium (Employee pip)",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "10",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "0.5s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "No",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming / Charging",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside and outside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "4 hits",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "5.63s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "1.31s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "Instant kill",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eyeless Dog",
+    "imageID": "eyelessdog",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Medium - large",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "2",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "8",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming, suspicious, charging",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Outside (Night / eclipse)",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "12 hits",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "5.25s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "1.23s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "• Instant kill (Employees)\n• 3 (Other entities)",
+            "textWrap": "wrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kidnapper Fox",
+    "imageID": "kidnapperfox",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "Danger level",
+            "value": "80%",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "No",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Leave time",
+            "value": "Doesn't leave",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "7 HP",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Dwells",
+            "value": "Outside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "3.38s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0.79s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Zap-Gun difficulty",
+            "value": "0.8",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Internal",
+        "data": [
+          {
+            "title": "Entity ID",
+            "value": "BushWolf",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Circuit Bee",
+    "imageID": "circuitbee",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Tiny",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "6",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Territorial / Roaming / Chasing",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Outside (Daytime)",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "Immune",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "2.5",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack damage",
+            "value": "10",
+            "textWrap": "normal"
+          },
+          {
+            "title": "DPS",
+            "value": "25",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Barber",
+    "imageID": "barber",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Not mentioned by Sigurd",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "3.33s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "No",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Leave time",
+            "value": "Doesn't leave",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "Immune HP",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Behavior",
+            "value": "Chasing",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Dwells",
+            "value": "Indoors",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "10.13s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "2.36s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Zap-Gun difficulty",
+            "value": "0.7",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "2s - 0.2s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Contact damage",
+            "value": "Instant kill",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Internal",
+        "data": [
+          {
+            "title": "Internal name",
+            "value": "ClaySurgeon",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nutcracker",
+    "imageID": "nutcracker",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Medium + Scrap",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "10",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "0.5s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Scanning / Chasing / Roaming",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "5 hits",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "3.75s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0.88s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "• (Shooting) ~ 1s\n• (Reloading) ~ 1.5s\n• (Kicking) Instant",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Attack damage",
+            "value": "(Shotgun) 5 - 100",
+            "textWrap": "normal"
+          },
+          {
+            "title": "DPS",
+            "value": "Variable",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Contact damage",
+            "value": "(Kick) Instant kill",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Old Bird",
+    "imageID": "oldbird",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Large",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "3",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "20",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "• Roaming (Walking and flying)\n• Chasing (Sprinting and flying)\n• Attack (Missile, stomping, squishing, grabbing)",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Outside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "∞",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "3.75s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0.88s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "• 30 - Instant kill (Missile attack)\n• 30 (Stomp attack)\n• 70 (Squish attack)\n• 160 - Instant kill (Grab attack)",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "DPS",
+            "value": "• Varies by distance (Missile / Stomp / Squish attack)\n• 80 (Grab attack)",
+            "textWrap": "wrap"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Baboon Hawk",
+    "imageID": "baboonhawk",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Medium",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "0.5",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "15",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming, Returning to nest, Engaging",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Outside (Daytime)",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "4 hits",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "3s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0.7s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "2",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack damage",
+            "value": "• 30 (Employees) (v49 and earlier)\n• 20 (Employees) (v50 beta)\n• 2 (Other entities)",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "DPS",
+            "value": "60",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tulip Snakes",
+    "imageID": "tulipsnakes",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Small",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "0.5",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "12",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "3.33s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "No",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming, carrying",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "• Outside (Daytime)\n• Inside (Unnatural)",
+            "textWrap": "wrap"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "1",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "Immune",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "Immune",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Forest Keeper",
+    "imageID": "forestkeeper",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Large",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "3",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "3",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming / Sprinting / Curious / Fleeing",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Outside (Night / eclipse)",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "30 hits",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "Instant kill",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Butler",
+    "imageID": "butler",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Medium",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "2",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "7",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "1.67s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "N/A",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming, lingering, murder, berserk",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "• 8 (Multiplayer)\n• 2 (Singleplayer)",
+            "textWrap": "wrap"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "Immune",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "Immune",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "10",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Earth Leviathan",
+    "imageID": "earthleviathan",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Colossal",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "2",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "3",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming, tracking, emerging",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Outside (Night-time / eclipse)",
+            "textWrap": "wrap"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "Immune",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "Instant kill",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jester",
+    "imageID": "jester",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "Power level",
+            "value": "3",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "No",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Leave time",
+            "value": "Doesn't leave",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming / Winding / Chasing",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "4.5s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "1.05s",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coil-Head",
+    "imageID": "coilhead",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Medium - small",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "5",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "16.67s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming / Stalking",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "Immune",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "24.38s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "5.69s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "5",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack damage",
+            "value": "90",
+            "textWrap": "normal"
+          },
+          {
+            "title": "DPS",
+            "value": "450",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thumper",
+    "imageID": "thumper",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Medium",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "3",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "4",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "3.33s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Aggressive",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "4 hits",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "7.5s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "1.75s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Zap-Gun difficulty",
+            "value": "0.5",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "1.5",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack damage",
+            "value": "40",
+            "textWrap": "normal"
+          },
+          {
+            "title": "DPS",
+            "value": "60",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bracken",
+    "imageID": "bracken",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "Danger level",
+            "value": "70%",
+            "textWrap": "normal"
+          },
+          {
+            "title": "RADAR pip size",
+            "value": "Medium",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "3",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "0.8s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "No",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Leave time",
+            "value": "Doesn't leave",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Spawn delay",
+            "value": "15s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "3 HP",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Behavior",
+            "value": "Sneaking, evading, threaten",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "1.88s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0.44s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Zap-Gun difficulty",
+            "value": "0.8",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Internal",
+        "data": [
+          {
+            "title": "Internal name",
+            "value": "Flowerman",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spore Lizard",
+    "imageID": "sporelizard",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Medium - large",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "2",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "3.33s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Territorial",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "Immune",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "Immune",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "Immune",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack damage",
+            "value": "20",
+            "textWrap": "normal"
+          },
+          {
+            "title": "DPS",
+            "value": "20",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hoarding Bug",
+    "imageID": "hoardingbug",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Small",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "10",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "0.67s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Looting / Territorial",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "3 hits",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "3.75s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0.88s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Zap-Gun difficulty",
+            "value": "0.9",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "30",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Snare Flea",
+    "imageID": "snareflea",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "RADAR pip size",
+            "value": "Small",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "4",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "4.35s",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Behavior",
+            "value": "Roaming / Trapping",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Vitality",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "3 hits",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "22.5s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "5.25s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Zap-Gun difficulty",
+            "value": "0.6",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack speed",
+            "value": "0.5",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack damage",
+            "value": "10",
+            "textWrap": "normal"
+          },
+          {
+            "title": "DPS",
+            "value": "5",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bunker Spider",
+    "imageID": "bunkerspider",
+    "content": [
+      {
+        "contentTitle": "Information",
+        "data": [
+          {
+            "title": "Danger level",
+            "value": "30%",
+            "textWrap": "normal"
+          },
+          {
+            "title": "RADAR pip size",
+            "value": "Small",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Power level",
+            "value": "2",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max spawned",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Door open speed",
+            "value": "6.67s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Can see through fog",
+            "value": "No",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Leave time",
+            "value": "Doesn't leave",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Traits",
+        "data": [
+          {
+            "title": "Shovel HP",
+            "value": "5 HP",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Behavior",
+            "value": "Roaming, scouting, chasing",
+            "textWrap": "wrap"
+          },
+          {
+            "title": "Dwells",
+            "value": "Inside",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Shock response",
+        "data": [
+          {
+            "title": "Stun grenades",
+            "value": "1.88s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Radar booster",
+            "value": "0.44s",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Zap-Gun difficulty",
+            "value": "1.1",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Offense",
+        "data": [
+          {
+            "title": "Attack damage",
+            "value": "90",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Attack speed",
+            "value": "1",
+            "textWrap": "normal"
+          },
+          {
+            "title": "Max DPS",
+            "value": "90",
+            "textWrap": "normal"
+          }
+        ]
+      },
+      {
+        "contentTitle": "Internal",
+        "data": [
+          {
+            "title": "Internal name",
+            "value": "SandSpider",
+            "textWrap": "normal"
+          }
+        ]
+      }
+    ]
+  }
+]
