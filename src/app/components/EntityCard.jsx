@@ -9,7 +9,7 @@ import '../../styles/components/EntityCard.css'
 /* - - - - - */
 
 function EntityCard({ name, imageID, contents }) {
-  const imagePath = `/src/assets/content/entity-cards/entities-images/e-${imageID}.png`;
+  const imagePath = `/lethal-company-guide/assets/content/entity-cards/entities-images/e-${imageID}.png`
 
   return (
     <main className="c-entitycard-m">
